@@ -1,2 +1,8 @@
 Archivo 3 para migrar Repo Remoto
 Agrego este texto para revisar que se suba bien mis cambios
+Sigo probando:
+
+¿Está bien ejecutar el comando git pull --rebase... que sugeriste? Porque ya lo hice > git reset --mixed origin/master > git add . > git commit -m "Este es un nuevo commit para lo que originalmente planeé que fuera una enmienda" > git push origin master sugerido aquí stackoverflow.com/questions/18588974/… Por cierto, tu respuesta parece útil, señor. 
+– 
+Leipzig
+ Comentado9 de junio de 2014 a 
